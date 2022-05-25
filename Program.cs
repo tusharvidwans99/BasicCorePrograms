@@ -13,7 +13,8 @@
             //PrimeFactors.checkPrimeFactors();
             //Division.CalculateQuotientAndReamainder();
             //SwappingNumbers.swapTheNumber();
-            EvenOdd.isEvenOrOdd();
+            //EvenOdd.isEvenOrOdd();
+            VowelOrConsonant.isVowel();
         }
     }
 }
