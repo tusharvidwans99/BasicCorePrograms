@@ -11,7 +11,8 @@
             //Powerof2.powerof2();
             //HarmonicSeries.Harmonic();
             //PrimeFactors.checkPrimeFactors();
-            Division.CalculateQuotientAndReamainder();
+            //Division.CalculateQuotientAndReamainder();
+            SwappingNumbers.swapTheNumber();
         }
     }
 }
