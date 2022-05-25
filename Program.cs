@@ -9,7 +9,8 @@
             //Flipcoin.FliptheCoin();
             //LeapYear.isLeapYear();
             //Powerof2.powerof2();
-            HarmonicSeries.Harmonic();
+            //HarmonicSeries.Harmonic();
+            PrimeFactors.checkPrimeFactors();
         }
     }
 }
