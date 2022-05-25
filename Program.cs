@@ -12,7 +12,8 @@
             //HarmonicSeries.Harmonic();
             //PrimeFactors.checkPrimeFactors();
             //Division.CalculateQuotientAndReamainder();
-            SwappingNumbers.swapTheNumber();
+            //SwappingNumbers.swapTheNumber();
+            EvenOdd.isEvenOrOdd();
         }
     }
 }
