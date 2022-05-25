@@ -7,7 +7,8 @@
         {
             Console.WriteLine("Welcome to the Basic Core Prograams");
             //Flipcoin.FliptheCoin();
-            LeapYear.isLeapYear();
+            //LeapYear.isLeapYear();
+            Powerof2.powerof2();
         }
     }
 }
